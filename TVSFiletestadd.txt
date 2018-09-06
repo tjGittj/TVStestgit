@@ -1,3 +1,6 @@
 Editing from git hub
+<<<<<<< HEAD
 1
 2
+=======
+>>>>>>> parent of 79bd693... adding 1 change
